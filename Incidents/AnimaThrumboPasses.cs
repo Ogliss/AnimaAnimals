@@ -11,7 +11,7 @@ public class IncidentWorker_AnimaThrumboPasses : IncidentWorker
 		{
 			return false;
 		}
-		if (!map.mapTemperature.SeasonAndOutdoorTemperatureAcceptableFor(ThingDefOf.AnimaThrumbo))
+		if (!map.mapTemperature.SeasonAndOutdoorTemperatureAcceptableFor(ThingDef.Named("AnimaThrumbo")))
 		{
 			return false;
 		}
@@ -26,7 +26,7 @@ public class IncidentWorker_AnimaThrumboPasses : IncidentWorker
 		{
 			return false;
 		}
-		PawnKindDef AnimaThrumbo = PawnKindDefOf.AnimaThrumbo;
+		PawnKindDef AnimaThrumbo = PawnKindDef.Named("AnimaThrumbo");
 		int value = GenMath.RoundRandom(StorytellerUtility.DefaultThreatPointsNow(map) / AnimaThrumbo.combatPower);
 		int max = Rand.RangeInclusive(3, 6);
 		value = Mathf.Clamp(value, 2, max);

@@ -1,0 +1,2 @@
+Z:\2repos\AnimaAnimals\obj\Debug\AnimaAnimals.csprojAssemblyReference.cache
+Z:\2repos\AnimaAnimals\obj\Debug\AnimaAnimals.csproj.CoreCompileInputs.cache

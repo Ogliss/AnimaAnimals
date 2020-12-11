@@ -1,2 +1,8 @@
 Z:\2repos\AnimaAnimals\obj\Debug\AnimaAnimals.csprojAssemblyReference.cache
 Z:\2repos\AnimaAnimals\obj\Debug\AnimaAnimals.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\bin\Debug\AnimaAnimals.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\bin\Debug\AnimaAnimals.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\obj\Debug\AnimaAnimals.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\obj\Debug\AnimaAnimals.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\obj\Debug\AnimaAnimals.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnimaAnimals\obj\Debug\AnimaAnimals.pdb

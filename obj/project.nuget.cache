@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDUyPHSSSz7xp6Ns3Pm2DfnaSgs+TQTSzevj1cP97HbpBZQBo9sB+Hk7IaIqv9wM4qghWt0C7CBFcURYgY8Zfw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnimaAnimals\\AnimaAnimals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\krafs.rimworld.ref\\1.2.2753\\krafs.rimworld.ref.1.2.2753.nupkg.sha512"
+  ],
+  "logs": []
+}
